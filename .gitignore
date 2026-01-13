@@ -69,3 +69,6 @@ temp/
 *.key
 credentials.json
 secrets.json
+
+# Internal reference files (not for repo)
+NAME_MAPPING_KEY.txt
