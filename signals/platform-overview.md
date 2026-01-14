@@ -18,10 +18,11 @@ You create a workflow, give it a name and description, and then build it out on 
 - Create, rename, and delete workflows.
 - View each workflow’s status and details.
 - Edit workflows on a visual canvas.
+- Select a preferred iteration when reviewing outputs.
 
 ### 2) AI steps built for knowledge work
 - **Knowledge Curation**: Ingest files or sources and organize them into usable knowledge items.
-- **Framework Specialist**: Apply structured frameworks to analyze or transform information.
+- **Framework Specialist**: Provide structured methodological guidance for analysis or transformation.
 - **Strategic Synthesis**: Combine insights into cohesive outputs (e.g., briefs, summaries, plans).
 
 These steps are designed to be repeatable and composable, so teams can standardize how they turn raw inputs into polished deliverables.
@@ -29,7 +30,8 @@ These steps are designed to be repeatable and composable, so teams can standardi
 ### 3) Artifact and iteration tracking
 - Every file and generated result is stored as an artifact.
 - Iterations are tracked so you can see what changed, when, and why.
-- You can re-run or refine steps without losing history.
+- You can re-run or refine steps without losing history, and select the version you want to use downstream.
+-- Outputs are designed to stay traceable to their inputs.
 
 ### 4) Background processing
 - Jobs run asynchronously, so long-running AI tasks don’t block the UI.

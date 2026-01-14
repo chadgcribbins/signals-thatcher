@@ -45,7 +45,6 @@ This document explains where prompts/specifications live, how they are assembled
      - current digest (if not the first batch)
      - new chunk batch content
      - iteration specifications
-     - up to 5 prior iterations’ specs + digests
 5. **LLM output** becomes a Knowledge Item Digest artifact.
 
 ### Strategic Synthesis: digests + framework specs → synthesis output
@@ -102,11 +101,11 @@ Create a clear, actionable synthesis by combining all relevant inputs from upstr
 ## Method
 1. Extract key insights and constraints from each input.
 2. Identify overlaps, dependencies, and contradictions.
-3. Resolve conflicts with reasoned judgments and cite sources when needed.
-4. Produce a cohesive plan and narrative that is traceable to inputs.
+3. When conflicts exist, preserve uncertainty and note conflicting perspectives explicitly rather than resolving them with judgment when evidence is insufficient.
+4. Produce a coherent plan and narrative that is traceable to inputs, but do not complete frameworks or narratives when evidence is weak or missing.
 
 ## Use of Retrieval (RAG)
-When additional detail or clarification is needed, perform targeted retrieval-augmented generation over the linked knowledge artifacts. Prefer precise queries; summarize and cite retrieved context succinctly.
+When additional detail or clarification is needed, perform targeted retrieval-augmented generation over the linked knowledge artifacts. Prefer precise queries; summarize and cite retrieved context succinctly. Actively seek counter-evidence and alternative interpretations.
 ```
 
 ### Knowledge Curator digest refinement prompt (template)
@@ -114,15 +113,6 @@ Source: `apps/server/src/jobs/job-handlers/workflows-queue/knowledge-item-interp
 
 ```
 You are an expert knowledge curator. Create a high-quality, well-structured markdown digest based on the provided content.
-
-Context from previous iterations (up to last 5):
----
-Iteration 1 Specifications:
-{specifications}
-
-Iteration 1 Digest:
-{digest}
----
 
 Specifications (follow these guidelines):
 ---
@@ -135,6 +125,11 @@ Output requirements:
 - Do not include a manifest or any JSON metadata (e.g., a 'manifest' object); output only Markdown.
 - Communicate clearly within the model’s available output token budget, prioritizing structure and clarity over verbosity.
 - The digest must be complete and not truncated; if you are approaching output token limits, conclude sections succinctly and end with a brief closing summary so nothing is cut off mid-sentence.
+
+Epistemic discipline (faithful representation):
+- Distinguish between factual claims, interpretations, normative statements, and speculative content.
+- Preserve uncertainty, disagreement, and incompleteness; do not resolve ambiguity unless the source does.
+- Note conflicts explicitly rather than resolving them.
 
 Content to analyze:
 ---
@@ -156,17 +151,27 @@ RESEARCH METHODOLOGY (follow in order):
 3) Targeted Retrieval: Use rag_search only within the allowed chunk IDs to gather facts, definitions, figures, classifications, examples, and counterexamples relevant to each information need.
    - Prefer fewer, higher-quality chunks; prioritize higher similarity scores and diverse sources.
    - Retrieve up to ~20 results per query when needed; refine queries if coverage is weak or repetitive.
+   - Actively seek counter-evidence, alternative interpretations, and limitations for each claim.
 4) Evidence Handling: Track which findings support which claims; avoid unverifiable assertions; note when evidence is suggestive vs. conclusive.
-5) Synthesis: Integrate the strongest evidence across sources; reconcile conflicts; surface assumptions; structure the narrative to answer the specifications explicitly.
+5) Synthesis: Integrate the strongest evidence across sources; preserve uncertainty when evidence is weak or conflicting; surface assumptions explicitly.
 
 CONSTRAINTS AND PRINCIPLES:
 - Ground every claim in the provided digests or rag_search results; do not invent facts or rely on prior external knowledge.
-- Prefer precise, neutral language; avoid meta-commentary about the process in the final output.
-- If evidence is insufficient for a specific detail, write accurate, non-speculative statements without calling out missing data.
+- Specifications are intent/requirements, NOT evidence. Only digests and RAG chunks are admissible knowledge sources. Framework specs provide methodological context, not factual claims.
+- Label every claim with one of: [EVIDENCE], [INFERENCE], [JUDGMENT]. Do not include unlabeled declarative statements.
+- Recommendations must include an evidence-strength qualifier: [STRONG], [MODERATE], or [WEAK].
+- Prefer precise, neutral language; avoid process meta-commentary in the final output, but note decision-critical unknowns succinctly when they affect conclusions.
+- If evidence is insufficient for a specific detail, state the uncertainty or unknown succinctly rather than speculating; avoid generic disclaimers.
 
 Formatting (minimal):
 - Produce a coherent, well-structured Markdown document.
 - Use normal prose and Markdown headings/lists as appropriate; avoid annotated code fences or language tags.
+
+Required output sections:
+- ## Conflicts (include "None observed." when no conflicts)
+- ## Unknowns / Contested Points (include "None observed." when no unknowns)
+- ## Labeled Claims (all claims labeled [EVIDENCE]/[INFERENCE]/[JUDGMENT])
+- Framework sections must use "Not supported by evidence." placeholders for unsupported slots.
 
 Strategic Synthesis Specifications (source of truth):
 ---
