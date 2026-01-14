@@ -91,3 +91,39 @@ Rob reaches the entrance at nighttime, a long-swept driveway led him through a w
 The road turns to a pale maroon, red colour, as if it's the mall leading up to Buckingham Palace except this is a turning circle at the front of the hotel. Rob pulls his vehicle up outside in a dodgy old Peugeot 206. The hotel valet opens the car door, he's wearing a traditional kilt and clearly has well-appointed vernacular. Rob hands over the keys with an apology, he's sure the valet has driven better vehicles before.
 
 In front of him is a foreboding Scottish stately house two white plaster sides to the main frontage then a central local stoned centre, it looks as though it should be a Scottish Laird's home. An array of traditional tweeded employees direct him to the front desk past a crackling open fire, tartan carpet meets soft limestone flooring. Somehow the traditional feel also feels very modern, behind the front desk is a backlit picture, it's almost animated, not a TV – it's clearly a picture behind the front desk. Everything smells new, that new fabric / leather smell but with the sweet scent of a wood fire. Welcome Sir, we have your room ready. He knew the hotel would be acceptable, but the good feeling washed over him like relief. Scotland, we've arrived!
+
+---
+
+## Simon R
+
+Simon remembered the pool at Ariyasom Villa as the quietest place in all of Bangkok. It sat tucked beyond the bustling streets between the villa's teak buildings and the lush garden, where the late day light softened everything it touched.
+
+One evening, after hours spent navigating the city's crowded streets, he got into the pool just as the sun had begun to set. The water was warm from the day's heat, and the surface reflected the sky as it shifted from gold to soft pink.
+
+Palm leaves rustled gently overhead. The distant hum of Bangkok drifted over the villa's walls, but it felt muted, almost like it belonged to another world. Simon floated from one side of the pool to the other, watching the sun sinking behind the trees and the old wooden buildings.
+
+As dusk settled in, lanterns around the garden flickered on, casting warm halos across water. He stayed there until the sky deepened into evening, letting the calm of the moment settle around him.
+
+When he finally stepped out of the pool, he wandered to the small terrace beside it, a quiet platform with a few tables overlooking the water. The air was warm, the night calm, Simon sat and enjoyed a beer, the perfect way to close a day in a hidden corner of Bangkok.
+
+---
+
+## Stephen
+
+It started with a murmur, then grew into a whine. Before full eruption Steve opened his eyes, blinking into the darkness hoping it was just a dream. Realising it wasn't he quickly threw back the soft duvet and like a ninja swept Charlie up from his travel cot on the other side of the room. Conscious of his wife and daughter he immediately grabbed his clothes, an outfit for Charlie, the nappy bag and the trusted pushchair. Within seconds exiting the room swiftly and in darkness, leaving his wife and 4-year-old daughter in the land of nod. This was the first time on the trip that Steve had needed to swoop across the room to pick up his one-year-old son, in the hope he wouldn't scream the hotel down.
+
+Standing in the corridor of the hotel with the door to the room closed, wondering why he didn't just take refuge in the bathroom, Charlie's whines started to grow, Steve headed to the lift desperately trying to get down to the ground floor, hoping he'd managed to grab all the essentials. The lift took an age to arrive and with Charlie now screaming the fear of waking up people in the nearby rooms creeping in, Steve did his best to soothe him. Once safely into the lift and arriving on the ground floor, Steve now changed into more appropriate attire, it was time to get Charlie back to sleep in his pushchair, a tried and tested technique.
+
+A quick glance at the clock 2:30am, great Steve thought back in bed by 3:00am, plan neepy neepy was put into play, the trusted pushchair put into recline, a bottle of warmed formula and a couple of laps of the hotel foyer would do the trick, allowing both Steve & Charlie to go back to sleep. Charlie however had other ideas and 2 hours later, in desperation and with no unexplored areas of the hotel left. Steve decided to venture the unknown, taking a wide awake one-year-old out into unchartered territory – Vancouver. What could go wrong……
+
+---
+
+## Tom
+
+The hotel room in Brisbane smelled faintly of salt and old carpet, as if the river air had soaked into the walls and never quite left. From the narrow window, the city glowed in patches—office lights still burning, the dark ribbon of the Brisbane River barely visible below. Near the door, propped awkwardly against the wardrobe, was a cricket bat he had brought for no clear reason other than habit.
+
+The trouble began after midnight, when a sudden thud echoed from the hallway, followed by the scrape of something heavy. The silence that followed was thick, deliberate. He reached for the cricket bat, fingers tightening around the handle, then the unmistakable rush of water. From the bathroom came a sharp crack, like tiles shifting under pressure.
+
+When he pushed the door open, the light flickered, revealing water spreading across the floor. Emerging from the bathroom doorway was a shark! He raised the bat instinctively, breath shallow, pulse roaring louder than the river outside.
+
+Eventually, the water stopped, the corridor remained empty, and the shark was nothing more than a grotesque decoration knocked loose by a burst pipe. But he did not sleep again that night. Even as dawn washed Brisbane in pale heat and traffic noise, the cricket bat stayed in his hands, and the image of that lifeless, watching eye lingered long after he checked out.
