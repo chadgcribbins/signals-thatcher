@@ -1,0 +1,9 @@
+# Rob
+
+Sometimes the best experiences are the unexpected ones. Rob had decided on the location (Scotland) and the date but left it until the day before to book his accommodation. He went with a brand name he knew of and had experienced before and a price which felt acceptable. The "house" in the name should've given it away.
+
+Rob reaches the entrance at nighttime, a long-swept driveway led him through a wooded car park on a driveway clearly built to make the most of the surroundings. It slowly reveals a reflection of the moon off the loch; he didn't know it was by a loch. The driveway drops close to the loch and meanders back on itself to what looks like the hotel.
+
+The road turns to a pale maroon-red colour, as if it's the mall leading up to Buckingham Palace except this is a turning circle at the front of the hotel. Rob pulls his vehicle up outside in a dodgy old Peugeot 206. The hotel valet opens the car door, he's wearing a traditional kilt and clearly has well-appointed vernacular. Rob hands over the keys with an apology; he's sure the valet has driven better vehicles before.
+
+In front of him is a foreboding Scottish stately house: two white plastered sides to the main frontage, then a central local stone centre. It looks as though it should be a Scottish laird's home. An array of traditional tweeded employees direct him to the front desk past a crackling open fire; tartan carpet meets soft limestone flooring. Somehow the traditional feel also feels very modern. Behind the front desk is a backlit picture, it's almost animated, not a TV - it's clearly a picture behind the front desk. Everything smells new, that new fabric/leather smell but with the sweet scent of a wood fire. Welcome Sir, we have your room ready. He knew the hotel would be acceptable, but the good feeling washed over him like relief. Scotland, we've arrived!
