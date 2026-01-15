@@ -1,5 +1,27 @@
 # Framework Lens: JTBD with Evidence
 
+## Objective
+Define the guest's progress, motivations, and tensions with explicit evidence labeling, grounded in the highest-weight sources available.
+
+## Primary Evidence Sources (Priority Order)
+1. Hotel Memories
+2. Industry Leaders Podcasts
+3. Concierge Interview
+4. Trend reports
+5. Essence of our brand
+
+## Core Question This Framework Answers
+"What progress is the guest trying to make, and what forces shape that progress?"
+
+## Unit of Analysis
+A JTBD profile: job statement, motivations, forces of progress, and desired outcomes, with labeled claims.
+
+## Weighting & Emphasis Rules (Mandatory)
+- Weight evidence in the order listed above.
+- Hotel memories should be quoted or closely paraphrased where they materially illuminate a job; reference the person's name to show lineage.
+- These are reasoning preferences, not factual claims.
+
+## Synthesis Output (Example)
 This document synthesizes the current state of high-end hospitality through the dual lenses of **Stewardship–Continuity** and **Jobs To Be Done (JTBD)**, grounded in the provided research findings and industry digests.
 
 ## Stewardship Profile: Acme & Harborline Hotels

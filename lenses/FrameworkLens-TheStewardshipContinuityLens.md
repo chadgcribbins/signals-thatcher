@@ -1,5 +1,26 @@
 # Framework Lens: The Stewardship–Continuity Lens
 
+## Objective
+Evaluate hotels by long-term stewardship of relationships, place, and values rather than short-term efficiency.
+
+## Primary Evidence Sources (Priority Order)
+1. Hotel Memories
+2. Industry Leaders Podcasts
+3. Concierge Interview
+4. Trend reports
+5. Essence of our brand
+
+## Core Question This Framework Answers
+"Does this hotel act like it expects to be here in 30 years, with the same people, reputation, and community?"
+
+## Unit of Analysis
+A stewardship profile: spectrum position, dominant dimensions, fragile assets, and trust-breakers.
+
+## Weighting & Emphasis Rules (Mandatory)
+- Weight evidence in the order listed above.
+- Hotel memories should be quoted or closely paraphrased where they materially illuminate a stewardship dimension; reference the person's name to show lineage.
+- These are reasoning preferences, not factual claims.
+
 ## Canonical Roots (Quietly Doing the Work)
 This framework draws primarily from:
 - **Socioemotional Wealth Theory (SEW)** — Focuses on non-financial value preservation: identity, legacy, control, continuity.
@@ -11,10 +32,7 @@ This framework draws primarily from:
 You do not need to name these in outputs, but they justify the structure.
 
 ## Core Premise
-This lens evaluates hotels not by efficiency or differentiation, but by how they behave as long-term stewards of relationships, place, and values.
-
-It asks:
-“Does this hotel act like it expects to be here in 30 years, with the same people, reputation, and community?”
+This lens evaluates hotels not by efficiency or differentiation, but by how they behave as long-term stewards of relationships, place, and values. It emphasizes time horizon, continuity, and relationship depth over scale.
 
 ## Axis Structure (Foundational)
 

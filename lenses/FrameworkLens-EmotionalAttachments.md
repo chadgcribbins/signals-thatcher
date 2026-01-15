@@ -1,27 +1,30 @@
-# Framework Lens: Hotel Love Drivers & Emotional Attachments
+# Framework Lens: Emotional Attachments (Love and Hate Drivers)
 
 ## Objective
-Surface and prioritise the specific experiences, feelings, and moments that cause guests to love a hotel, remember it vividly, recommend it unprompted, or return despite cheaper or more convenient alternatives.
+Surface and prioritise the specific experiences, feelings, and moments that cause guests to love a hotel, remember it vividly, recommend it unprompted, or return despite cheaper or more convenient alternatives. Also surface what they actively resent, avoid, or warn others about.
 
 This synthesis is responsible for identifying why a hotel matters emotionally, not just what it enables functionally.
 
-The output should explain what people protect, miss, talk about, and feel reluctant to give up when they think about a hotel they love.
+The output should explain what people protect, miss, talk about, and feel reluctant to give up, as well as what they refuse to tolerate.
 
 ## Primary Evidence Sources (Priority Order)
-- Memory-based lived experience corpus
-  - Knowledge Curator node: Hotel memories (highest weight)
-- Long-form interview digests
-  - Knowledge Curator node: Customer interviews
-- Contextual trend signals
-  - Used only to interpret, not originate, love drivers
+1. Hotel Memories
+2. Industry Leaders Podcasts
+3. Concierge Interview
+4. Trend reports
+5. Essence of our brand
 
 ## Core Question This Framework Answers
-“When people say they love a hotel, what are they actually responding to, and why does it stay with them?”
+“When people say they love a hotel, what are they actually responding to, what do they hate when it goes wrong, and why does it stay with them?”
 
 ## Unit of Analysis
 The core unit is a Love Driver, defined as:
 
 A recurring emotional or experiential factor that creates attachment, fondness, or loyalty toward a hotel, grounded in lived experience and memory.
+
+A Hate Driver (or Aversion) is:
+
+A recurring emotional or experiential factor that creates dislike, avoidance, or active rejection, grounded in lived experience and memory.
 
 Love Drivers may be:
 - emotional
@@ -36,16 +39,19 @@ They do not need to be rational, efficient, or goal oriented.
 ## Core Responsibilities of the Synthesis
 The synthesis must:
 - Identify distinct Love Drivers grounded in lived experience evidence.
+- Surface recurring Hate Drivers where evidence supports them.
 - Decide how many Love Drivers to include, prioritising depth and memorability over coverage.
 - Merge or discard overlapping drivers where evidence does not justify separation.
 - Articulate why each Love Driver matters emotionally, not just what it is.
 - Explicitly surface ambiguity, contradictions, or uneven evidence.
 
 ## Weighting & Emphasis Rules (Mandatory)
-- Love Drivers strongly evidenced in Hotel memories must be prioritised, even if they appear inefficient, indulgent, or impractical.
+- Weight evidence in the order listed above.
+- Hotel memories should be quoted or closely paraphrased where they materially illuminate a driver; reference the person's name to show lineage.
+- Love Drivers strongly evidenced in Hotel Memories must be prioritised, even if they appear inefficient, indulgent, or impractical.
 - Drivers that appear only in trends but not in lived experience should be treated with scepticism and may be excluded.
 - If a Love Driver is irrational, nostalgic, or identity based, this must be made explicit rather than sanitised.
-- When a specific memory materially shapes a Love Driver, quote or closely paraphrase it and reference the contributor by name to show lineage.
+- If a Hate Driver is present, state it directly rather than softening the language.
 - These are reasoning preferences, not factual claims.
 
 ## Love Driver Structure (Required Fields)
@@ -113,12 +119,16 @@ State confidence explicitly:
 
 Include a brief explanation of why.
 
+### 8. Hate Counterpart (If Evidenced)
+Describe the inverse experience that produces active dislike or avoidance, with evidence anchors and the specific language guests use.
+
 ## Synthesis-Level Requirements
 Across all Love Drivers, the synthesis must:
 - Limit total Love Drivers, typically 8 to 12 unless evidence strongly supports more.
 - Implicitly or explicitly prioritise drivers by emotional weight and evidence density.
 - Show where different Love Drivers reinforce or undermine each other.
 - Leave space unfinished where evidence is thin or contradictory.
+- Make the love/hate contrast visible when it shapes decision-making.
 
 ## Desired Effect
 The output should:
@@ -126,6 +136,7 @@ The output should:
 - Prompt recognition, debate, and disagreement among hotel teams.
 - Make it uncomfortable to reduce the hotel to amenities or star ratings.
 - Reveal what is emotionally fragile or sacred about the experience.
+- Surface what guests will defend and what they will not forgive.
 
 Polite completeness is not the goal.
 
@@ -140,4 +151,4 @@ Where appropriate, the synthesis should:
 ## How This Differs From JTBD (Explicitly)
 JTBD asks: What progress is the guest making?
 
-This framework asks: Why does this place matter to them?
+This framework asks: Why does this place matter to them, and what makes them reject it?
