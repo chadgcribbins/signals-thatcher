@@ -25,27 +25,7 @@ A JTBD profile: job statement, motivations, forces of progress, and desired outc
 - These are reasoning preferences, not factual claims.
 
 ## Synthesis Output (Example)
-This document synthesizes the current state of high-end hospitality through the dual lenses of **Stewardship–Continuity** and **Jobs To Be Done (JTBD)**, grounded in the provided research findings and industry digests.
-
-## Stewardship Profile: Acme & Harborline Hotels
-
-### Spectrum Position: Corporate-Owned with "Irreverent" Stewardship
-Acme/Harborline occupies a complex position on the spectrum. While part of a larger corporate ecosystem (Skylark Air, Acme Group), it attempts to project the "personality" of a family-stewarded firm through "irreverent" and "rock and roll" brand heritage [EVIDENCE]. However, this creates a tension between its corporate scalability and the "accumulated relationships" expected in true stewardship models [INFERENCE].
-
-**Dominant Stewardship Dimensions:**
-- **Stewardship of Intangible Assets:** The brand relies heavily on its "record label" and "Branson energy" heritage to create a "culty following" [EVIDENCE].
-- **Relationship Accumulation:** High-frequency travelers (e.g., "Mark") view the hotel as a "home" or "third place," suggesting a shift from transaction efficiency to cumulative belonging [EVIDENCE].
-
-**Fragile Assets at Risk:**
-- **Brand Trust:** The "irreverent" marketing is perceived by some 50-year-old luxury travelers as a lack of "elegance" or an inability to "take care" of guests [EVIDENCE].
-- **Service Consistency:** The "Safe Hotels Act" and rising labor costs in the US create a "service gap" where corporate "bean counters" may erode the "human flavor" essential to the brand's identity [EVIDENCE].
-
-**Non-Negotiables (Trust-Breakers):**
-- **Functional Failures:** Stained carpets, safe failures, or "atrocious" housekeeping lead to permanent "blacklisting" by high-end travelers and their spouses [EVIDENCE].
-- **Rigidity:** Strict 3:00 PM check-in times for international long-haul travelers are viewed as a violation of the "stewardship" of guest well-being [EVIDENCE].
-
-**Growth Risks:**
-- Expanding too rapidly into "standardized" corporate models (e.g., W Hotels being perceived as "too much Marriott") risks losing the "quirky" license that allows Acme to be different [INFERENCE].
+This example illustrates a JTBD-only synthesis grounded in the evidence hierarchy above.
 
 ## Jobs To Be Done: The Heritage Luxury Quest
 
@@ -85,16 +65,16 @@ Acme/Harborline occupies a complex position on the spectrum. While part of a lar
 - Financial metrics (RevPAR, CAGR) are grounded in SEC filings and STR data, though geographic reporting variance exists [EVIDENCE].
 
 ### Interpretation
-- The "Stewardship Lens" successfully interprets the tension between Acme’s "irreverent" brand and the "elegant" expectations of older luxurians [INFERENCE].
+- The job framing highlights a tension between irreverent brand cues and expectations for elegant, anticipatory service [INFERENCE].
 - The "Belonging Gap" (84% potential vs. 24% actual) is a critical interpretive framework for 2025 [EVIDENCE].
 
 ### Sense-Making
-- The synthesis connects the "F**k-it List" (spontaneity) with the "Stewardship" (legacy) dimension, revealing a fundamental conflict in 2025 traveler psychology [INFERENCE].
+- The synthesis connects the "F**k-it List" (spontaneity) with legacy-seeking travel, revealing a fundamental conflict in 2025 traveler psychology [INFERENCE].
 - The transition from "Search and Click" to "Agentic Execution" is identified as the primary technological shift [EVIDENCE].
 
 ## Conflicts
 - **"Irreverence" vs. "Elegance"** — Travelers associate Acme with "rock and roll" but doubt its ability to provide "elegant" anticipatory service — Sources: [AVR-Participant 1], [JOR-Participant 1].
-- **"Spontaneity" vs. "Stewardship"** — The "F**k-it List" mentality of immediate gratification conflicts with the SEW dimension of long-term legacy preservation — Sources: [Virtuoso/Globetrender], [Stewardship Framework].
+- **"Spontaneity" vs. "Legacy"** — The "F**k-it List" mentality of immediate gratification conflicts with longer-horizon, meaning-heavy travel — Sources: [Virtuoso/Globetrender].
 - **"AI Efficiency" vs. "Human Essence"** — 63% of travelers demand human-first service, yet 88% say AI-enabled services are important — Sources: [Future:Poll™], [Global Leisure Perspectives].
 - **"Digital ID Benefits" vs. "Privacy Deterrents"** — Digital wallets enable the "connected trip" but 55% of guests are deterred by data sharing — Sources: [Phocuswright], [Future:Poll™].
 
@@ -105,14 +85,14 @@ Acme/Harborline occupies a complex position on the spectrum. While part of a lar
 
 ## Labeled Claims
 - Acme is perceived as an "irreverent" brand with record-label heritage [EVIDENCE].
-- This "irreverence" creates a trust gap for travelers seeking "elegant" stewardship [INFERENCE].
+- This "irreverence" creates a trust gap for travelers seeking elegant, anticipatory service [INFERENCE].
 - 74% of luxury travelers seek deep historical significance over "Instagram-worthy" trends [EVIDENCE].
 - The "belonging gap" stands at 60 points (84% expectation vs. 24% reality) [EVIDENCE].
 - "Agentic AI" will shift staff from administrative "clutter" to "experiential hosting" [INFERENCE].
 - 55% of guests are deterred from using services if identifiable info is shared with third parties [EVIDENCE].
 - Gen Z and Millennial parents prioritize "quality time" (89%) over childcare (24%) in multi-gen travel [EVIDENCE].
 - The "F**k-it List" represents a shift toward spontaneous, frivolous, and liberating experiences [EVIDENCE].
-- Spontaneous gratification may erode the "long-term time horizon" required for true stewardship [JUDGMENT].
+- Spontaneous gratification may erode commitment to deeper, legacy-seeking stays [JUDGMENT].
 - Acme has "earned permission" to be playful, but must "know the way back" to its core ethos [JUDGMENT].
 
 ## Recommendations
