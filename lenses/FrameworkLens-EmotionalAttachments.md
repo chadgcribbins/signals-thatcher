@@ -7,6 +7,9 @@ This synthesis is responsible for identifying why a hotel matters emotionally, n
 
 The output should explain what people protect, miss, talk about, and feel reluctant to give up, as well as what they refuse to tolerate.
 
+## Overall Goal
+Clarify the emotional drivers to protect and the aversions to avoid, so teams know what creates loyalty and what breaks it.
+
 ## Primary Evidence Sources (Priority Order)
 1. Hotel Memories
 2. Industry Leaders Podcasts

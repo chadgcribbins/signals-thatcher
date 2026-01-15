@@ -3,6 +3,9 @@
 ## Objective
 Define the guest's progress, motivations, and tensions with explicit evidence labeling, grounded in the highest-weight sources available.
 
+## Overall Goal
+Produce a clear, evidence-weighted job narrative that guides priorities and decision-making.
+
 ## Primary Evidence Sources (Priority Order)
 1. Hotel Memories
 2. Industry Leaders Podcasts

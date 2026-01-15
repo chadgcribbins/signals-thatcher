@@ -3,6 +3,9 @@
 ## Objective
 Evaluate hotels by long-term stewardship of relationships, place, and values rather than short-term efficiency.
 
+## Overall Goal
+Determine how stewardship behaviors build or erode trust over time, and where growth would put meaning at risk.
+
 ## Primary Evidence Sources (Priority Order)
 1. Hotel Memories
 2. Industry Leaders Podcasts
