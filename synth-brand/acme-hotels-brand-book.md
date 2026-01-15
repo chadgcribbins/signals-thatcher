@@ -2,22 +2,22 @@
 
 ## Brand Essence
 
-**Acme Hotels** represents the pinnacle of culinary-driven luxury hospitality. We are architecturally distinguished properties in the world's most remarkable food regions, where exceptional modern design meets absolute regional provenance. Each hotel is a refined space for food-obsessed travelers to learn, taste, and immerse themselves in the ingredients and traditions that define a place. This is where architecture, landscape, and cuisine converge into an unforgettable experience.
+**Acme Hotels** is a family-owned, generationally minded collection of culinary-driven luxury hotels. We are architecturally distinguished properties in the world's most remarkable food regions, where exceptional modern design meets absolute regional provenance. Each hotel is a refined, intimate space for food-obsessed travelers to learn, taste, and immerse themselves in the ingredients and traditions that define a place. We grow patiently, invest in long-term relationships, and build for decades rather than seasons. This is where architecture, landscape, and cuisine converge into an unforgettable experience.
 
 ---
 
 ## Brand DNA Framework
 
 ### Purpose
-**To create the world's most extraordinary culinary destinations where architecture, landscape, and regional food culture unite.**
+**To create the world's most extraordinary culinary destinations through long-term family stewardship, where architecture, landscape, and regional food culture unite.**
 
 We exist because food tells the most authentic story of place, and the most sophisticated travelers seek meaningful connection to the regions they visit. Great architecture should honor landscape, great cuisine should honor terroir, and great hospitality should honor both.
 
 ### Mission
-**Build a global collection of architecturally exceptional hotels, each positioned in its continent's finest food region, offering immersive culinary experiences that celebrate absolute regional provenance and sustainable practices.**
+**Build a small, global family collection of architecturally exceptional hotels, each positioned in its continent's finest food region, offering immersive culinary experiences that celebrate absolute regional provenance, sustainable practices, and long-term community relationships.**
 
 ### Proposition
-**The only global luxury hotel group where world-class modern architecture, complete regional food provenance, and immersive culinary education converge—creating refined destinations for food-obsessed travelers who demand both beauty and authenticity.**
+**The only family-owned luxury hotel collection where world-class modern architecture, complete regional food provenance, and immersive culinary education converge—creating refined destinations for food-obsessed travelers who demand both beauty and authenticity.**
 
 ---
 
@@ -35,6 +35,7 @@ Every Acme property is a purpose-built architectural statement inspired by Frank
 - Architecture that becomes part of the experience, not just background
 - Spaces designed for how people actually want to live—work, gather, retreat, dine
 - Integration of indoor/outdoor living, natural light, views
+- Design decisions made for longevity, not trends
 
 **Why it matters:**
 Great architecture elevates every moment. Our guests arrive, see the building emerge from the landscape, and immediately understand: this place is different. The attention to design signals the attention to every detail that follows.
@@ -51,6 +52,7 @@ Every dish served at Acme properties features ingredients sourced from the regio
 - Menus shift constantly with seasonality and availability
 - On-property production: kitchen gardens, beehives, greenhouses, foraging programs, preserving operations
 - Direct relationships with farmers, foragers, fishermen, cheesemakers, bakers
+- Multi-year commitments that prioritize growers and makers over short-term margins
 
 **Why it matters:**
 This isn't farm-to-table theater. This is verifiable, traceable, absolute commitment to place. Guests can visit the farms, meet the producers, taste the difference. It creates cuisine that tastes distinctly of where you are—impossible to replicate elsewhere.
@@ -102,12 +104,12 @@ Acme recognizes that modern luxury travelers, especially affluent 30-45 year old
 **Why it matters:**
 We don't pretend people disconnect completely. Instead, we create an environment where work happens effortlessly, leaving energy and time for the experiences that restore: hiking, foraging, cooking, eating, exploring. Companies bring teams here not for generic conference rooms, but for the combination of functional excellence and inspiring environment.
 
-### 6. **Global Portfolio, Local Distinction**
+### 6. **Small Global Collection, Deep Local Roots**
 
-Acme is building a collection of properties across continents, each positioned in that region's finest food-growing territory within proximity to major airports. Every property shares architectural ambition, culinary commitment, and operational excellence—but each is distinctly itself, shaped by local landscape, ingredients, culture, and design cues.
+Acme is building a small collection of properties across continents, each positioned in that region's finest food-growing territory within proximity to major airports. Every property shares architectural ambition, culinary commitment, and operational excellence—but each is distinctly itself, shaped by local landscape, ingredients, culture, and design cues. We grow only when we can steward a place for the long term, with family-level care and community trust.
 
 **What this means in practice:**
-- Portfolio goal: Multiple properties per continent (Europe, North America, South America, Asia, Oceania, Africa)
+- Portfolio goal: A limited number of properties worldwide, added patiently and selectively
 - Location selection criteria: exceptional food region + natural beauty + airport access + buildable site
 - Potential regions: Cotswolds, Tuscany, Provence, Sonoma, Oaxaca, Mendoza, Hokkaido, Marlborough, Cape Winelands, Alentejo
 - Each property named after region: Acme [Region Name]
@@ -117,7 +119,7 @@ Acme is building a collection of properties across continents, each positioned i
 - Consistent brand promise, distinct regional expression
 
 **Why it matters:**
-Sophisticated travelers want to collect experiences across our portfolio, knowing each property will feel entirely different while maintaining the Acme standard. We're not replicating a formula—we're expressing the same values in wildly different contexts.
+Sophisticated travelers want to collect experiences across our collection, knowing each property will feel entirely different while maintaining the Acme standard. We're not replicating a formula—we're expressing the same values in wildly different contexts, guided by long-term stewardship rather than short-term scale.
 
 ---
 
@@ -135,6 +137,12 @@ We're fascinated by how food grows, how architecture shapes experience, how land
 **Respect for Place**
 We don't impose on landscapes and food cultures—we learn from them, honor them, amplify them. We're guests in these regions, not colonizers.
 
+**Stewardship for Generations**
+We invest with a long horizon. We protect land, relationships, and reputations over time, building legacies that endure beyond a single season.
+
+**Relationship-Led**
+We prioritize trust with guests, staff, and producers. We keep promises, return year after year, and choose depth over speed.
+
 **Pleasure Without Pretense**
 We're serious about our craft but never stuffy. Great food and beautiful spaces should create joy, not intimidation.
 
@@ -151,7 +159,7 @@ Sustainability isn't a program we added—it's built into our model. Regional so
 - **Transparent** → Open kitchens, full provenance, honest communication
 - **Curious** → Constantly learning about food, ingredients, techniques, regions
 - **Welcoming** → Warm service, accessible knowledge-sharing, inclusive environment
-- **Ambitious** → Pushing culinary and architectural boundaries, building global collection
+- **Steadfast** → Patient growth, long-term commitments, values over quick wins
 - **Authentic** → True to our commitments, no greenwashing or performance
 
 ---
@@ -160,7 +168,7 @@ Sustainability isn't a program we added—it's built into our model. Regional so
 
 **If Acme were a person, they would be:**
 
-The accomplished architect-chef who spent years living in different countries, learning regional cuisines and building techniques. They've studied at top culinary institutes and design schools but care more about authenticity than awards. They've chosen to build a series of extraordinary homes in the world's most beautiful food regions—places where they can grow ingredients, cook seasonally, host curious friends, and share what makes each place special. They're knowledgeable without being pompous, exacting without being cold, sophisticated without being exclusive. They invite you into their world not to impress you, but to genuinely share something beautiful and delicious. You leave feeling inspired, educated, and slightly transformed.
+The accomplished architect-chef who spent years living in different countries, learning regional cuisines and building techniques, then returned to build a family-owned collection. They've studied at top culinary institutes and design schools but care more about authenticity than awards. They've chosen to build a series of extraordinary homes in the world's most beautiful food regions—places where they can grow ingredients, cook seasonally, host curious friends, and share what makes each place special. They're knowledgeable without being pompous, exacting without being cold, sophisticated without being exclusive. They invite you into their world not to impress you, but to genuinely share something beautiful and delicious. You leave feeling inspired, educated, and slightly transformed.
 
 **Our tone of voice is:**
 - Informed and articulate, never pretentious
@@ -169,6 +177,7 @@ The accomplished architect-chef who spent years living in different countries, l
 - Warm and inviting, never intimidating
 - Educational without being pedantic
 - Sophisticated but accessible
+- Grounded and human, never corporate
 
 **We sound like:**
 "This morning's asparagus comes from Daylesford Farm, seven kilometers north. Chef has prepared it three ways—raw-shaved with aged sheep's cheese, grilled with wild garlic butter, and in a warm custard with brown butter breadcrumbs. The soil composition here produces remarkable sweetness in spring vegetables."
@@ -322,17 +331,17 @@ Deliver on every promise with excellence. The architecture impresses, the food a
 **Deeper Engagement**
 
 *The opportunity:*
-Guests who've stayed once want to collect experiences across our portfolio. They follow us on social media to see what's growing at each property. They subscribe to our newsletter featuring chef profiles, seasonal highlights, new property openings, and culinary travel stories.
+Guests who've stayed once want to collect experiences across our collection. They follow us to see what's growing at each property. They subscribe to our newsletter featuring chef profiles, seasonal highlights, new property openings, and culinary travel stories. They also want to feel part of a family-run community, not a points program.
 
 *What we do:*
 - Seasonal updates from each property—what's being harvested, foraged, preserved
-- Portfolio loyalty program—benefits at multiple properties
+- Family circle membership—recognition across properties without corporate gimmicks
 - Early access to new property openings
 - Invitations to special culinary events (harvest dinners, guest chef collaborations, regional food festivals)
 - Content that educates and inspires: recipe shares, foraging guides, architectural photography
 
 *What they feel:*
-"I'm part of something special. I want to visit Acme Tuscany next year, then eventually collect experiences across the portfolio. These are my people—curious, food-obsessed, design-minded."
+"I'm part of something special. I want to visit Acme Tuscany next year, then eventually collect experiences across the collection. These are my people—curious, food-obsessed, design-minded."
 
 ### Stage 5: Bumps in the Road
 **When Things Go Wrong**
@@ -596,6 +605,9 @@ We notice what guests need before they ask. The extra layer when afternoon tempe
 **Professional Warmth**
 We're genuinely glad guests are here, and it shows. We make eye contact, we smile, we use names, we remember preferences. But we maintain appropriate professional boundaries—warm, not familiar. Attentive, not intrusive.
 
+**Family-Led Hosting**
+Guests should feel welcomed by people who will be here for the long haul. We emphasize continuity, long tenure, and personal accountability, creating the feeling of returning to a trusted home rather than a rotating staff.
+
 **Transparent Communication**
 When regional sourcing creates constraints, we explain honestly. When something goes wrong, we own it immediately and fix it generously. We don't make corporate excuses or hide behind policy.
 
@@ -618,8 +630,8 @@ We're not loosely "farm-to-table." We source 100% of ingredients from the region
 **It's the culinary immersion.**
 We don't just feed you—we teach you. Open kitchens, chef interactions, foraging walks, cooking classes, producer visits. You leave understanding the region's food culture, not just having consumed it.
 
-**It's the global collection.**
-Each property is completely distinct—different architecture, different landscape, different cuisine—united by shared values. You can collect experiences across continents, always knowing you'll find exceptional design and regional food, never knowing exactly what form it will take.
+**It's the small global collection.**
+Each property is completely distinct—different architecture, different landscape, different cuisine—united by shared values. You can collect experiences across continents, always knowing you'll find exceptional design and regional food, never knowing exactly what form it will take. The collection stays intentionally small, stewarded for the long term.
 
 **It's the sophistication without pretense.**
 We're serious about craft—architectural, culinary, agricultural—but never stuffy. We create beautiful spaces and exceptional food that invite joy, curiosity, and wonder. Luxury should feel good, not intimidating.
