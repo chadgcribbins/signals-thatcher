@@ -1,0 +1,109 @@
+{
+  "podcast": "Checking In by Hotel Owner",
+  "episodes": [
+    {
+      "id": 1,
+      "title": "Breaking the Mould: Francisco Macedo on Redefining Hospitality Through Innovation",
+      "date": "2025-12-12",
+      "season": 3,
+      "episode": 47,
+      "guest": "Francisco Macedo, COO of Pavillion Club",
+      "duration": "48:00",
+      "audio_url": "https://feeds.podcastle.ai/8c1059c7-85b7-478c-9464-6cecb8fdac06/Francisco%2520Master%2520Innholders.mp3",
+      "filename": "ep47-francisco-macedo-innovation.mp3",
+      "focus": "Innovation, leadership transformation, Master Innholders conference",
+      "customer_insights": "high"
+    },
+    {
+      "id": 2,
+      "title": "From Ops to HR: Natalia Dainty on Building Learning That Truly Sticks",
+      "date": "2025-12-05",
+      "season": 3,
+      "episode": 46,
+      "guest": "Natalia Dainty, L&D Manager at Valor Hospitality",
+      "duration": "44:16",
+      "audio_url": "https://feeds.podcastle.ai/36d59d7c-f612-4fb7-8cc7-f010d67d4ab8/Natalia%2520Valor.mp3",
+      "filename": "ep46-natalia-dainty-learning.mp3",
+      "focus": "Training programs, mental health, staff development",
+      "customer_insights": "medium"
+    },
+    {
+      "id": 3,
+      "title": "Rockstar Hospitality: Inside the Eclectic World of House of Gods",
+      "date": "2025-10-24",
+      "season": 3,
+      "episode": 39,
+      "guest": "Mike Baxter, Co-founder of House of Gods",
+      "duration": "49:39",
+      "audio_url": "https://feeds.podcastle.ai/b8eb6115-1d07-44b1-a91c-c338d25d42c1/House%2520of%2520Gods.mp3",
+      "filename": "ep39-mike-baxter-house-of-gods.mp3",
+      "focus": "Maximalist design, guest experience innovation, brand identity",
+      "customer_insights": "high"
+    },
+    {
+      "id": 4,
+      "title": "Curiosity, Inclusivity and Culture: Olivia Immesi on Leading Native Places",
+      "date": "2025-10-17",
+      "season": 3,
+      "episode": 38,
+      "guest": "Olivia Immesi, CEO of Native Places",
+      "duration": "58:20",
+      "audio_url": "https://feeds.podcastle.ai/9d9b223c-5c33-4ae8-94c2-6f10453375c6/Native%2520Places.mp3",
+      "filename": "ep38-olivia-immesi-native-places.mp3",
+      "focus": "Creative placemaking, net zero carbon, inclusive leadership",
+      "customer_insights": "high"
+    },
+    {
+      "id": 5,
+      "title": "Hospitality in Full Colour: The Story Behind Kaleidoscope Hotels",
+      "date": "2025-11-07",
+      "season": 3,
+      "episode": 41,
+      "guest": "Ian Taylor, Co-founder of Kaleidoscope Collection",
+      "duration": "44:15",
+      "audio_url": "https://feeds.podcastle.ai/2bf0894c-eb09-4ef4-b4a6-18195ea2125d/Ian%2520Taylor.mp3",
+      "filename": "ep41-ian-taylor-kaleidoscope.mp3",
+      "focus": "Design-led independent hotels, brand development",
+      "customer_insights": "high"
+    },
+    {
+      "id": 6,
+      "title": "Looking Beyond London: Anna Corkill on Hyatt's Ambitious UK Portfolio Plans",
+      "date": "2025-11-21",
+      "season": 3,
+      "episode": 43,
+      "guest": "Anna Corkill, Regional VP Development at Hyatt",
+      "duration": "29:03",
+      "audio_url": "https://feeds.podcastle.ai/22c33e61-5146-4c01-8bcd-618b07bb9f17/Anna%2520Corkhill.mp3",
+      "filename": "ep43-anna-corkill-hyatt.mp3",
+      "focus": "UK expansion, lifestyle/luxury positioning, regional growth",
+      "customer_insights": "medium"
+    },
+    {
+      "id": 7,
+      "title": "The Horwood House Hotel's Approach to Trustworthy Leadership",
+      "date": "2025-10-10",
+      "season": 3,
+      "episode": 36,
+      "guest": "Karim Kassam, Owner of Horwood House Hotel",
+      "duration": "67:18",
+      "audio_url": "https://feeds.podcastle.ai/6b287443-759c-4ee1-8978-5cca1c39b9a2/Karim%2520Kassam.mp3",
+      "filename": "ep36-karim-kassam-horwood-house.mp3",
+      "focus": "Team culture, hotel transformation, investment strategy",
+      "customer_insights": "medium"
+    },
+    {
+      "id": 8,
+      "title": "Accor's People-First Approach to Leadership and Transformation",
+      "date": "2025-10-03",
+      "season": 3,
+      "episode": 36,
+      "guest": "Pierre Deburaux, Chief Administration Officer of Accor",
+      "duration": "34:31",
+      "audio_url": "https://feeds.podcastle.ai/2a286c4a-b21d-47f5-b08b-27240c81e2e2/Accor.mp3",
+      "filename": "ep36-pierre-deburaux-accor.mp3",
+      "focus": "Organizational restructuring, financial resilience, people-centered values",
+      "customer_insights": "medium"
+    }
+  ]
+}
